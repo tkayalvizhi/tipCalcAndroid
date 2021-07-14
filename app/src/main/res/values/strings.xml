@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="happy_birthday_text">Happy Birthday!</string>
+    <string name="background_image">Background image</string>
+    <string name="Send">Send</string>
+    <string name="Roll">Roll</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (18%)</string>
+    <string name="ok_service">OK (15%)</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+</resources>
